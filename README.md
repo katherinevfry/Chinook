@@ -1,6 +1,7 @@
 # Chinook
 
-## Database Script(https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c657cf8f-ea75-4dfa-a10e-d0acd05b9d50/Chinook_SqlServer_AutoIncrementPKs.sql?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210911%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210911T164604Z&X-Amz-Expires=86400&X-Amz-Signature=055c2825cf544e3dee66c57a73e10c35acc2de409da2a1c0200718f1f9c9250d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Chinook_SqlServer_AutoIncrementPKs.sql%22)
+## Database Script
+[Database Script](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c657cf8f-ea75-4dfa-a10e-d0acd05b9d50/Chinook_SqlServer_AutoIncrementPKs.sql?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210911%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210911T164604Z&X-Amz-Expires=86400&X-Amz-Signature=055c2825cf544e3dee66c57a73e10c35acc2de409da2a1c0200718f1f9c9250d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Chinook_SqlServer_AutoIncrementPKs.sql%22)
 
 ## Queries
 1. `non_usa_customers.sql`: Provide a query showing Customers (just their full names, customer ID and country) who are not in the US.
